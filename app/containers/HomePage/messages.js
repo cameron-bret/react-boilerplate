@@ -10,12 +10,11 @@ export const scope = 'boilerplate.containers.HomePage';
 export default defineMessages({
   startProjectHeader: {
     id: `${scope}.start_project.header`,
-    defaultMessage: 'Start your next react project in seconds',
+    defaultMessage: 'Harmonious music and messaging for your business',
   },
   startProjectMessage: {
     id: `${scope}.start_project.message`,
-    defaultMessage:
-      'A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices',
+    defaultMessage: 'Educate employees and customers alike!',
   },
   trymeHeader: {
     id: `${scope}.tryme.header`,
